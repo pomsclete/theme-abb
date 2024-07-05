@@ -15056,9 +15056,9 @@ body.sal-disabled [data-sal|=flip] {
 }
 
 header.header-one .header-top {
-  border-bottom: 1px solid #e3d881;
+  border-bottom: 1px solid #E4CE22;
   overflow: hidden;
-  background: #e3d881;
+  background: #E4CE22;
 }
 @media only screen and (max-width: 1199px) {
   header.header-one .header-top {
@@ -29037,7 +29037,7 @@ form.appoinment-form select option {
   left: 0;
   opacity: 1;
   background: #171717;
-  padding: 7px 30px;
+  padding: 7px 100px  7px 10px;
   transition: 0.5s;
 }
 @media only screen and (max-width: 575px) {
