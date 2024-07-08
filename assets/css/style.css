@@ -23274,7 +23274,7 @@ body.index-nine .single-case-wrapper {
   position: absolute;
   left: 0;
   top: 0;
-  content: "BUILDING";
+  content: "ACTU";
   padding: 11px 17px;
   text-transform: uppercase;
   font-weight: 700;
@@ -29102,7 +29102,7 @@ form.appoinment-form select option {
   margin-top: -30px;
 }
 .service-area-eight .hov-area .title {
-  margin-top: 80px;
+  margin-top: 50px;
   color: #fff;
 }
 .service-area-eight .hov-area .disc {
@@ -30070,7 +30070,7 @@ form.appoinment-form select option {
 }
 
 .cta-main-wrapper-4 .left span {
-  color: var(--color-primary);
+  color: #E4CE22;
   font-family: var(--font-primary);
 }
 .cta-main-wrapper-4 .left .title {
@@ -30575,7 +30575,7 @@ form.appoinment-form select option {
   align-items: center;
   padding: 25px 20px;
   background: #fff;
-  width: 312px;
+  width: auto;
   transition: 0.3s;
 }
 .feature-wrapper-full-wrap .single-wrapper svg {
@@ -33013,7 +33013,7 @@ form.appoinment-form select option {
   display: flex;
   align-items: flex-start;
   flex-wrap: wrap;
-  gap: 120px;
+  gap: 95px;
   border-top: 1px solid #222222;
 }
 @media (max-width: 1400px) {
